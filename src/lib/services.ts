@@ -41,4 +41,11 @@ export const SERVICE_GROUPS: GroupConfig[] = [
       { name: "Notes", url: "https://notes.aneeshmaganti.com" },
     ],
   },
+  {
+    name: "Friends' Websites",
+    services: [
+      { name: "Thaison Le", url: "https://www.lethaison.com/" },
+      { name: "Sachin Iyer", url: "https://www.sachiniyer.com"},
+    ],
+  },
 ];
