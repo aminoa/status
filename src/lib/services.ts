@@ -24,11 +24,13 @@ export const SERVICE_GROUPS: GroupConfig[] = [
   {
     name: "Homelab",
     services: [
-      { name: "DAC", url: "https://dac.aneeshmaganti.com" },
-      { name: "Homelab Wiki", url: "https://homelab.aneeshmaganti.com" },
-      { name: "Pelican", url: "https://pelican.aneeshmaganti.com" },
       { name: "CTFd", url: "https://recruit.aneeshmaganti.com" },
+      { name: "DAC", url: "https://dac.aneeshmaganti.com" },
+      { name: "Emptypad", url: "https://emptypad.aneeshmaganti.com" },
+      { name: "Homelab Wiki", url: "https://homelab.aneeshmaganti.com" },
+      { name: "Shi-kara-jinsei-ga-kuru", url: "https://shi-kara-jinsei-ga-kuru.aneeshmaganti.com" },
       { name: "Status", url: "https://status.aneeshmaganti.com" },
+
     ],
   },
   {
@@ -37,7 +39,6 @@ export const SERVICE_GROUPS: GroupConfig[] = [
     services: [
       { name: "Homepage", url: "https://aneeshmaganti.com" },
       { name: "Blog", url: "https://stalereference.com" },
-      { name: "Emptypad", url: "https://emptypad.aneeshmaganti.com" },
       { name: "Notes", url: "https://notes.aneeshmaganti.com" },
     ],
   },
