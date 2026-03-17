@@ -24,6 +24,7 @@ export const SERVICE_GROUPS: GroupConfig[] = [
   {
     name: "Homelab",
     services: [
+      { name: "Ball Shoot", url: "https://ball-shoot.aneeshmaganti.com" },
       { name: "CTFd", url: "https://recruit.aneeshmaganti.com" },
       { name: "DAC", url: "https://dac.aneeshmaganti.com" },
       { name: "Emptypad", url: "https://emptypad.aneeshmaganti.com" },
@@ -47,6 +48,7 @@ export const SERVICE_GROUPS: GroupConfig[] = [
     services: [
       { name: "Thaison Le", url: "https://www.lethaison.com/" },
       { name: "Sachin Iyer", url: "https://www.sachiniyer.com"},
+      { name: "Ben Porter", url: "https://bporter.net"},
     ],
   },
 ];
