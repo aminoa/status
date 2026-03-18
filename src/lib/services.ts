@@ -49,6 +49,7 @@ export const SERVICE_GROUPS: GroupConfig[] = [
       { name: "Thaison Le", url: "https://www.lethaison.com/" },
       { name: "Sachin Iyer", url: "https://www.sachiniyer.com"},
       { name: "Ben Porter", url: "https://bporter.net"},
+      { name: "Tony Duan", url: "https://ttdddan.com/"}
     ],
   },
 ];
