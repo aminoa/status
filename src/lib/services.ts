@@ -40,7 +40,6 @@ export const SERVICE_GROUPS: GroupConfig[] = [
     services: [
       { name: "Homepage", url: "https://aneeshmaganti.com" },
       { name: "Blog", url: "https://stalereference.com" },
-      { name: "Notes", url: "https://notes.aneeshmaganti.com" },
     ],
   },
   {
